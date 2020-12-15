@@ -1,0 +1,20 @@
+========  INTERPOL INTERPRETER STARTED   ========
+
+Enter INTERPOL file (.ipol): 
+================ INTERPOL OUTPUT ================
+
+----------------  OUTPUT START  ---------------->
+Invalid expression at line number [ 3 ]
+ ----> PRINT PRINT
+<----------------- OUTPUT END -------------------
+
+========= INTERPOL LEXEMES/TOKENS TABLE =========
+
+LINE NO.  TOKENS                          LEXEMES
+1         PROGRAM_BEGIN                   BEGIN
+1         END_OF_STATEMENT                EOS
+2         END_OF_STATEMENT                EOS
+3         OUTPUT                          PRINT
+3         OUTPUT                          PRINT
+
+======== INTERPOL INTERPRETER TERMINATED ========
