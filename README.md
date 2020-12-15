@@ -1,5 +1,5 @@
 **DESCRIPTION**
-This is a script to automate the testing process of assignment #3, but this can be customized to test any CLI Python programs.
+This is a script to automate the testing process of assignment #3.
 
 **INSTRUCTIONS**
 1. Download the files and place them all in your Python script's directory.
