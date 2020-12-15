@@ -9,25 +9,25 @@
 Sample output from the CLI:
 ````
 ************
-TEST CASE #30 - Multiple begin and end
+TEST CASE #1 - In Specs
 ************
 
 SUCCESSFUL: True
 
 ************
-TEST CASE #31 - Mixed statements
+TEST CASE #2 - In Specs
 ************
 
 SUCCESSFUL: True
 
 ************
-TEST CASE #32 - Variables
+TEST CASE #3 - In Specs
 ************
 
 SUCCESSFUL: True
 
 ************
-TEST CASE #33 - Verbose
+TEST CASE #4 - In Specs
 ************
 
 SUCCESSFUL: True
