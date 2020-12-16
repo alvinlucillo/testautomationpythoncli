@@ -1,0 +1,26 @@
+========  INTERPOL INTERPRETER STARTED   ========
+
+Enter INTERPOL file (.ipol): 
+================ INTERPOL OUTPUT ================
+
+----------------  OUTPUT START  ---------------->
+Hello, world!
+Welcome to INTERPOL.
+
+<----------------- OUTPUT END -------------------
+
+========= INTERPOL LEXEMES/TOKENS TABLE =========
+
+LINE NO.  TOKENS                          LEXEMES
+1         PROGRAM_BEGIN                   BEGIN
+1         END_OF_STATEMENT                EOS
+2         OUTPUT_WITH_LINE                PRINTLN
+2         STRING                          Hello, world!
+2         END_OF_STATEMENT                EOS
+3         OUTPUT_WITH_LINE                PRINTLN
+3         STRING                          Welcome to INTERPOL.
+3         END_OF_STATEMENT                EOS
+4         PROGRAM_END                     END
+5         END_OF_FILE                     EOF
+
+======== INTERPOL INTERPRETER TERMINATED ========

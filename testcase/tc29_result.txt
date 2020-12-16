@@ -1,0 +1,19 @@
+========  INTERPOL INTERPRETER STARTED   ========
+
+Enter INTERPOL file (.ipol): 
+================ INTERPOL OUTPUT ================
+
+----------------  OUTPUT START  ---------------->
+Variable is not declared at line number [ 2 ]
+ ----> STORE this
+<----------------- OUTPUT END -------------------
+
+========= INTERPOL LEXEMES/TOKENS TABLE =========
+
+LINE NO.  TOKENS                          LEXEMES
+1         PROGRAM_BEGIN                   BEGIN
+1         END_OF_STATEMENT                EOS
+2         ASSIGN_KEY                      STORE
+2         IDENTIFIER                      this
+
+======== INTERPOL INTERPRETER TERMINATED ========
